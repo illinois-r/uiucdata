@@ -5,7 +5,7 @@
 [![R-CMD-check](https://github.com/illinois-r/uiucdata/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/illinois-r/uiucdata/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
-# `uiucdata`
+# uiucdata: An R Data Package for UIUC Data
 
 The goal of `uiucdata` is to provide data sets available at the
 [University of Illinois at Urbana-Champaign
